@@ -1,2 +1,2 @@
-# notes
-A series notes for review
+# git-notes
+This branch contains a series of notes for git
