@@ -5,7 +5,7 @@ a series of notes for review
 
 ## Git系列
 
-笔记来源**[advanced-git](https://github.com/nnja/advanced-git)**，有PPT和配套练习。
+笔记来源[advanced-git](https://github.com/nnja/advanced-git)，有PPT和配套练习。
 
 - [01-什么是git？](https://github.com/whg4/notes/issues/1)
 - [02-commits](https://github.com/whg4/notes/issues/2)
@@ -30,3 +30,8 @@ a series of notes for review
 ## React
 
 - [渲染主流程分析](https://github.com/whg4/notes/issues/13)
+
+
+## 其他
+
+- [immer原理](https://github.com/whg4/notes/issues/14)
