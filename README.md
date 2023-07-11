@@ -36,3 +36,4 @@ a series of notes for review
 
 - [immer原理](https://github.com/whg4/notes/issues/14)
 - [《正则指引》笔记](https://github.com/whg4/notes/issues/15)
+- [verdaccio添加自定义插件](https://github.com/whg4/notes/issues/16)
